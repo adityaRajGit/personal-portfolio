@@ -39,6 +39,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![Screenshot (853)](https://github.com/adityaRajGit/personal-portfolio/assets/72968234/b24d03fa-bbe6-492b-b1e8-86b0073f535b)
 
